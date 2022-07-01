@@ -1,5 +1,4 @@
 
 
-# AccentureTasks in one place, switch between branches to see specific tasks
-
+# AccentureTasksDay5 JUnit testing and beginning of Spring Web
 
